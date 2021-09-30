@@ -1,8 +1,6 @@
 # Demo APP stripe checkout flow with next.js
 
-This app is an exercise of a checkout flow with `stripe` on `next.js`.
-
-On this branch you can see the final code, to start the exercise clone this repo and switch to branch `starting-point`
+On this repo you can see the final code of the Stripe next.js integration lecture
 
 ## stripe webpage
 
